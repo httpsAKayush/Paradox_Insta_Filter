@@ -1,0 +1,28 @@
+{
+  "modelName": "colorPaintMaterial",
+  "name": "skullfinalgifMaterial",
+  "identifier": "colorPaintMaterial:4095-aa94dd7d-88ba-4ade-a226-3514660319df",
+  "alphaTestEnabled": false,
+  "alphaTestThreshold": 0,
+  "backgroundInfluence": 0.2363636363636354,
+  "cullMode": "back",
+  "diffuseTextureName": "sequenceTexture:3593-aa94dd7d-88ba-4ade-a226-3514660319df",
+  "diffuseTextureTransform": {
+    "offsetU": 0,
+    "offsetV": 0,
+    "rotation": 0,
+    "scaleU": 1,
+    "scaleV": 1
+  },
+  "doubleSided": false,
+  "importIssues": {},
+  "isDiffuseTextureIdentifierEnabled": true,
+  "paintBrightness": 0.16818181818181718,
+  "readDepth": true,
+  "transparency": 1,
+  "writeDepth": true,
+  "writesToColorBufferAlpha": true,
+  "writesToColorBufferBlue": true,
+  "writesToColorBufferGreen": true,
+  "writesToColorBufferRed": true
+}
